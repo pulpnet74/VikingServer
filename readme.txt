@@ -2,7 +2,7 @@
 
 Overview
 
-	Refer to "LodbrokEndpointProject.pdf" for details
+This server login a user, insert a new scre for a particular high score list and retrieve the high score lists (the sessions expire in 10 minutes)
 
 Start application:
 	
