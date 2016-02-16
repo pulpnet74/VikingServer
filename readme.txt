@@ -21,3 +21,5 @@ Typical Requests
 	- http://localhost:8081/2/score?sessionkey=UICSNDK (POST)
 
 	- http://localhost:8081/2/highscorelist (GET)
+
+
